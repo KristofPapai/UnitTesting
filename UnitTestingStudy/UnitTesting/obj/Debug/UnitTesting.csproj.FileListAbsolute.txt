@@ -1,0 +1,15 @@
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\obj\Debug\UnitTesting.csproj.AssemblyReference.cache
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\obj\Debug\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\obj\Debug\UnitTesting.csproj.CopyComplete
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\Kristóf\Desktop\unittesting\UnitTestingStudy\UnitTesting\obj\Debug\UnitTesting.pdb
